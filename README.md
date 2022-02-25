@@ -24,6 +24,7 @@
 
 # Solo Legendary
 ### Fungerer også godt til alle open world ctrl-points og andre aktiviteter, men mere "jobb" å holde ryggen og sidene fri
+#### Reflector shield, Skill dmg og Armor Regen med Protection for elites mod. 
 ![Solo Legendary](https://github.com/ThomasOdegard/TheDivisionGame/blob/main/Solo%20Legendary%20-Bleed%20Reflector%20Sheld%20-%20Armor%20regen.png?raw=true "Solo Legendary")
 
 
